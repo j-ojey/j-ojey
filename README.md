@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/jojey_joji" target="blank"><img src="https://img.shields.io/twitter/follow/jojey_joji?logo=twitter&style=for-the-badge" alt="jojey_joji" /></a> </p>
 
-- 🌱 I’m currently learning **Django, Computer Science**
+- 🌱 I’m currently learning ** Computer Science**
 
 - 💬 Ask me about **Frontend, Django and Javascript**
 
